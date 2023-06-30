@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{84c6f9fd-ec36-4a12-990f-8a9b51ecb2d6}">
+		<property name="assetPath">
+			<value>DrawRifle.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>96</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.59659375000000003</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{e99cf438-2726-4180-ae7c-09d78201d6b5}</destination>
+		</relationship>
+	</object>
+</objects>

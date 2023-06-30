@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{93a753d5-e8ed-46c7-b1ba-218e13dc85a9}">
+		<property name="assetPath">
+			<value>rifleShoot2.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>96</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>2.1151979166666668</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{e99cf438-2726-4180-ae7c-09d78201d6b5}</destination>
+		</relationship>
+	</object>
+</objects>

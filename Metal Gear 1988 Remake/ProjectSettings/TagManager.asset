@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Gamer
+  - Enemy
+  - wall
+  - Trigger
+  - magmermi
+  - shotmermi
+  - riflemermi
+  - Staytime
+  - screenblood
+  - enriflemermi
+  - enriflesound
+  - misfail
+  - FxTemporaire
+  - bomb
+  - passpart
+  - lazertouch
+  - laser1
+  - laser2
+  - laser3
+  - rollingCylinder
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Aim
+  - Wall
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1856315203
+    locked: 0
+  - name: Buttons
+    uniqueID: 1504244155
+    locked: 0
+  - name: Canvas
+    uniqueID: 1834745647
+    locked: 0

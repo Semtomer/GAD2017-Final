@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{5419c3b1-8820-4b99-904f-af8cf921adac}">
+		<property name="assetPath">
+			<value>metalRolling.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>9.7205833333333338</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{e99cf438-2726-4180-ae7c-09d78201d6b5}</destination>
+		</relationship>
+	</object>
+</objects>

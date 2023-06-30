@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="EncodableAsset" id="{4099a944-f09a-4f45-9588-838f16c19648}">
+		<property name="assetPath">
+			<value>MehmetKaan's Sounds/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{e99cf438-2726-4180-ae7c-09d78201d6b5}</destination>
+		</relationship>
+	</object>
+</objects>
