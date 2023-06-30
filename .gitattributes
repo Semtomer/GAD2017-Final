@@ -1,2 +1,4 @@
 sharedassets8.assets filter=lfs diff=lfs merge=lfs -text
 *.resS filter=lfs diff=lfs merge=lfs -text
+Game[[:space:]]Video filter=lfs diff=lfs merge=lfs -text
+Game[[:space:]]Video.mp4 filter=lfs diff=lfs merge=lfs -text
