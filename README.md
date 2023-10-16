@@ -22,5 +22,10 @@ B --> Grenade
 H --> Hide in the box      
 G --> Increase health by eating chocolate    
 
+Game Video    
+https://youtu.be/S6CSVHLFegQ  
+
+Windows Build    
+https://drive.google.com/file/d/1G0eKikM49uPiYPhP0rMqiiA6ajJE-1Z3/view?usp=sharing
 
 
